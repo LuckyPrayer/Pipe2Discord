@@ -15,8 +15,7 @@ Pipe2Discord is a Bash script that reads input lines and sends them to a Discord
 - `curl` command-line tool
 
 ## Usage
-```bash
-echo "Hello, Discord!" | ./P2D.sh
+`echo "Hello, Discord!" | ./P2D.sh`
 
 ## Configuration
 
